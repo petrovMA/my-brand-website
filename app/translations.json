@@ -1,5 +1,5 @@
 {
-  "en": {
+  "ru": {
     "title": "AI Bot Dev",
     "about": "About",
     "portfolio": "Portfolio",
@@ -38,7 +38,7 @@
     "chatOnTelegram": "Chat on Telegram",
     "footerText": "© 2024 AI Bot Developer. All rights reserved."
   },
-  "ru": {
+  "en": {
     "title": "Разработка ИИ ботов",
     "about": "Обо мне",
     "portfolio": "Портфолио",

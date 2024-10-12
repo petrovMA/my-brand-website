@@ -88,16 +88,6 @@ export default function Component() {
             >
               {t("contact")}
             </a>
-            <div className="flex items-center space-x-2">
-              <Switch
-                id="language-toggle"
-                checked={language === "ru"}
-                onCheckedChange={toggleLanguage}
-              />
-              <Label htmlFor="language-toggle">
-                {language === "en" ? "EN" : "RU"}
-              </Label>
-            </div>
           </div>
         </div>
       </nav>
