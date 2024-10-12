@@ -54,7 +54,9 @@ export default function Component() {
     setLanguage((prev) => (prev === "en" ? "ru" : "en"));
   };
 
-  const t = (key) => translations[key][language];
+  const t = (key: string) => {
+    return translations?.[language]?.[key] ?? '';
+  };
 
   return (
     <div className="min-h-screen bg-gray-900 text-white font-sans">
