@@ -1,0 +1,18 @@
+{
+  "en": {
+    "about": "About",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "description": "My expertise lies in natural language processing, machine learning, and seamless integration with Telegram's API to deliver bots that are not just functional, but truly conversational and intuitive.",
+    "welcomeMessage": "Welcome to AI Bot Dev"
+  },
+  "ru": {
+    "about": "О нас",
+    "portfolio": "Портфолио",
+    "testimonials": "Отзывы",
+    "contact": "Контакты",
+    "description": "Мой опыт заключается в обработке естественного языка, машинном обучении и безупречной интеграции с API Telegram для создания ботов, которые не только функциональны, но и действительно разговорчивы и интуитивны.",
+    "welcomeMessage": "Добро пожаловать в AI Bot Dev"
+  }
+}
